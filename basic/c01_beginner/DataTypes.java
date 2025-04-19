@@ -1,5 +1,8 @@
+<<<<<<< HEAD:basic/c01_beginner/DataTypes.java
 package basic.c01_beginner;
 
+=======
+>>>>>>> main:basic/beginner/DataTypes.java
 /*
 Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
 Vídeo: https://www.twitch.tv/videos/2428998601
@@ -10,7 +13,6 @@ public class DataTypes {
     public static void main(String[] args) {
 
         // Tipos de datos primitivos
-
         int myInt = 37;
         System.out.println(myInt);
 
@@ -29,8 +31,7 @@ public class DataTypes {
         String myString = "Hola, Java";
         System.out.println(myString);
 
-        // Tipo de dato en tiempo de compilación
-
+        // Ver el tipo de dato en tiempo de compilación
         System.out.println(myString.getClass().getSimpleName());
     }
 }

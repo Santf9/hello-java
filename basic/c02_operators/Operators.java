@@ -1,5 +1,8 @@
+<<<<<<< HEAD:basic/c02_operators/Operators.java
 package basic.c02_operators;
 
+=======
+>>>>>>> main:basic/operators/Operators.java
 /*
 Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
 Vídeo: https://www.twitch.tv/videos/2428998601

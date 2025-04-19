@@ -1,5 +1,8 @@
+<<<<<<< HEAD:basic/c01_beginner/VariablesAndConstants.java
 package basic.c01_beginner;
 
+=======
+>>>>>>> main:basic/beginner/VariablesAndConstants.java
 /*
 Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
 Vídeo: https://www.twitch.tv/videos/2428998601
@@ -10,7 +13,6 @@ public class VariablesAndConstants {
     public static void main(String[] args) {
 
         // Variables
-
         String name = "Brais";
         System.out.println(name);
 
@@ -29,7 +31,6 @@ public class VariablesAndConstants {
         System.out.println(year);
 
         // Constantes
-
         final String EMAIL = "mouredev@gmail.com";
         // EMAIL = "brais@gmail.com"; Es constante
         System.out.println(EMAIL);
