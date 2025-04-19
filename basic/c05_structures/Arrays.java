@@ -1,4 +1,4 @@
-package basic.c05_structures;
+package c05_structures;
 
 /*
 Clase 3 - Strings, Condicionales y Arrays (17/04/2025)

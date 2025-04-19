@@ -1,4 +1,4 @@
-package basic.c03_strings;
+package c03_strings;
 
 /*
 Clase 3 - Strings, Condicionales y Arrays (17/04/2025)

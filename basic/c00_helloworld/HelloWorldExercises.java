@@ -1,8 +1,5 @@
-<<<<<<< HEAD:basic/c00_helloworld/HelloWorldExercises.java
-package basic.c00_helloworld;
+package c00_helloworld;
 
-=======
->>>>>>> main:basic/helloworld/HelloWorldExercises.java
 /*
 Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
 Vídeo: https://www.twitch.tv/videos/2428998601

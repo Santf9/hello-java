@@ -1,4 +1,4 @@
-package basic.c04_conditionals;
+package c04_conditionals;
 
 /*
 Clase 3 - Strings, Condicionales y Arrays (17/04/2025)

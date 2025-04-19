@@ -1,8 +1,7 @@
-<<<<<<< HEAD:basic/c01_beginner/VariablesAndConstants.java
-package basic.c01_beginner;
 
-=======
->>>>>>> main:basic/beginner/VariablesAndConstants.java
+package c01_beginner;
+
+
 /*
 Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
 Vídeo: https://www.twitch.tv/videos/2428998601

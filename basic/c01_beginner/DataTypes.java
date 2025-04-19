@@ -1,8 +1,5 @@
-<<<<<<< HEAD:basic/c01_beginner/DataTypes.java
-package basic.c01_beginner;
+package c01_beginner;
 
-=======
->>>>>>> main:basic/beginner/DataTypes.java
 /*
 Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
 Vídeo: https://www.twitch.tv/videos/2428998601
