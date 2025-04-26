@@ -1,8 +1,5 @@
-<<<<<<< HEAD:basic/c00_helloworld/HelloWorld.java
-package basic.c00_helloworld;
+package c00_helloworld;
 
-=======
->>>>>>> main:basic/helloworld/HelloWorld.java
 /*
 Clase 1 - Introducción y Hola Mundo (02/04/2025)
 Vídeo: https://www.twitch.tv/videos/2422706574

@@ -56,7 +56,7 @@ public class Strings {
         System.out.println(a == c);
         System.out.println(a.equals(c));
 
-        // Trim
+        // Trim - Elimina los espacios en blanco
         System.out.println(" Hola, me llamo Brais ".trim());
 
         // Replace
