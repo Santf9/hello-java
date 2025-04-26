@@ -13,8 +13,12 @@ public class Arrays {
         int[] numbers = new int[3];
         System.out.println(numbers);
 
+        System.out.println("---------------------------");
+
         String[] names = {"Brais", "Moure", "mouredev"};
         System.out.println(names);
+
+        System.out.println("---------------------------");
 
         // Acceso
         System.out.println(numbers[0]);
@@ -22,11 +26,15 @@ public class Arrays {
 
         System.out.println((new String[3])[0]);
 
+        System.out.println("---------------------------");
+
         // Modificación
         numbers[0] = 1;
         numbers[1] = 10;
         System.out.println(numbers[0]);
         System.out.println(numbers[1]);
+
+        System.out.println("---------------------------");
 
         // numbers[3] = 2; Error
 
@@ -34,10 +42,14 @@ public class Arrays {
         names[2] = "mouredev@gmail.com";
         System.out.println(names[2]);
 
+        System.out.println("---------------------------");
+
         System.out.println(names.length);
         names[2] = null;
         System.out.println(names[2]);
         System.out.println(names.length);
+
+        System.out.println("---------------------------");
 
         // numbers[2] = null; Error
 
